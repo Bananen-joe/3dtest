@@ -1,2 +1,2 @@
 # 3dtest
-Tinkering with Three JS
+Tinkering with ThreeJS
